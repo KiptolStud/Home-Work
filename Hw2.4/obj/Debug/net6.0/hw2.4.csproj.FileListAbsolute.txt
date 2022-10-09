@@ -1,0 +1,15 @@
+F:\Учеба\C#\hw2.4\obj\Debug\net6.0\hw2.4.csproj.AssemblyReference.cache
+F:\Учеба\C#\hw2.4\obj\Debug\net6.0\hw2.4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\C#\hw2.4\obj\Debug\net6.0\hw2.4.AssemblyInfoInputs.cache
+F:\Учеба\C#\hw2.4\obj\Debug\net6.0\hw2.4.AssemblyInfo.cs
+F:\Учеба\C#\hw2.4\obj\Debug\net6.0\hw2.4.csproj.CoreCompileInputs.cache
+F:\Учеба\C#\hw2.4\bin\Debug\net6.0\hw2.4.exe
+F:\Учеба\C#\hw2.4\bin\Debug\net6.0\hw2.4.deps.json
+F:\Учеба\C#\hw2.4\bin\Debug\net6.0\hw2.4.runtimeconfig.json
+F:\Учеба\C#\hw2.4\bin\Debug\net6.0\hw2.4.dll
+F:\Учеба\C#\hw2.4\bin\Debug\net6.0\hw2.4.pdb
+F:\Учеба\C#\hw2.4\obj\Debug\net6.0\hw2.4.dll
+F:\Учеба\C#\hw2.4\obj\Debug\net6.0\refint\hw2.4.dll
+F:\Учеба\C#\hw2.4\obj\Debug\net6.0\hw2.4.pdb
+F:\Учеба\C#\hw2.4\obj\Debug\net6.0\hw2.4.genruntimeconfig.cache
+F:\Учеба\C#\hw2.4\obj\Debug\net6.0\ref\hw2.4.dll
