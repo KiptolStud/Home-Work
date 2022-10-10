@@ -6,12 +6,12 @@ string txtToCheck = number.Replace(" ","");  /// для проверки тек�
 
 bool IsPalindrome()
 {
-    for (int i = 0; i < length / 2; i++)
-        while (number[i] == number[length - 1])
-        {
-            return true;
-        }
-    return false;
+for (int i = 0; i < length / 2; i++)
+while (number[i] == number[length - 1])
+{
+return true;
+}
+return false;
 }
 
 if (IsPalindrome()) System.Console.WriteLine("Да");
