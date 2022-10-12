@@ -1,0 +1,15 @@
+F:\Учеба\C#\Hw4.1\bin\Debug\net6.0\Hw4.1.exe
+F:\Учеба\C#\Hw4.1\bin\Debug\net6.0\Hw4.1.deps.json
+F:\Учеба\C#\Hw4.1\bin\Debug\net6.0\Hw4.1.runtimeconfig.json
+F:\Учеба\C#\Hw4.1\bin\Debug\net6.0\Hw4.1.dll
+F:\Учеба\C#\Hw4.1\bin\Debug\net6.0\Hw4.1.pdb
+F:\Учеба\C#\Hw4.1\obj\Debug\net6.0\Hw4.1.csproj.AssemblyReference.cache
+F:\Учеба\C#\Hw4.1\obj\Debug\net6.0\Hw4.1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\C#\Hw4.1\obj\Debug\net6.0\Hw4.1.AssemblyInfoInputs.cache
+F:\Учеба\C#\Hw4.1\obj\Debug\net6.0\Hw4.1.AssemblyInfo.cs
+F:\Учеба\C#\Hw4.1\obj\Debug\net6.0\Hw4.1.csproj.CoreCompileInputs.cache
+F:\Учеба\C#\Hw4.1\obj\Debug\net6.0\Hw4.1.dll
+F:\Учеба\C#\Hw4.1\obj\Debug\net6.0\refint\Hw4.1.dll
+F:\Учеба\C#\Hw4.1\obj\Debug\net6.0\Hw4.1.pdb
+F:\Учеба\C#\Hw4.1\obj\Debug\net6.0\Hw4.1.genruntimeconfig.cache
+F:\Учеба\C#\Hw4.1\obj\Debug\net6.0\ref\Hw4.1.dll
