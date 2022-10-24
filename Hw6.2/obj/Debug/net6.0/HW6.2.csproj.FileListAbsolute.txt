@@ -1,0 +1,15 @@
+F:\Учеба\C#\HW6.2\obj\Debug\net6.0\HW6.2.csproj.AssemblyReference.cache
+F:\Учеба\C#\HW6.2\obj\Debug\net6.0\HW6.2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\C#\HW6.2\obj\Debug\net6.0\HW6.2.AssemblyInfoInputs.cache
+F:\Учеба\C#\HW6.2\obj\Debug\net6.0\HW6.2.AssemblyInfo.cs
+F:\Учеба\C#\HW6.2\obj\Debug\net6.0\HW6.2.csproj.CoreCompileInputs.cache
+F:\Учеба\C#\HW6.2\bin\Debug\net6.0\HW6.2.exe
+F:\Учеба\C#\HW6.2\bin\Debug\net6.0\HW6.2.deps.json
+F:\Учеба\C#\HW6.2\bin\Debug\net6.0\HW6.2.runtimeconfig.json
+F:\Учеба\C#\HW6.2\bin\Debug\net6.0\HW6.2.dll
+F:\Учеба\C#\HW6.2\bin\Debug\net6.0\HW6.2.pdb
+F:\Учеба\C#\HW6.2\obj\Debug\net6.0\HW6.2.dll
+F:\Учеба\C#\HW6.2\obj\Debug\net6.0\refint\HW6.2.dll
+F:\Учеба\C#\HW6.2\obj\Debug\net6.0\HW6.2.pdb
+F:\Учеба\C#\HW6.2\obj\Debug\net6.0\HW6.2.genruntimeconfig.cache
+F:\Учеба\C#\HW6.2\obj\Debug\net6.0\ref\HW6.2.dll
