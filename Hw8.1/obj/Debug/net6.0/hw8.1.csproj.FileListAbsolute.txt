@@ -1,0 +1,15 @@
+F:\Учеба\C#\hw8.1\bin\Debug\net6.0\hw8.1.exe
+F:\Учеба\C#\hw8.1\bin\Debug\net6.0\hw8.1.deps.json
+F:\Учеба\C#\hw8.1\bin\Debug\net6.0\hw8.1.runtimeconfig.json
+F:\Учеба\C#\hw8.1\bin\Debug\net6.0\hw8.1.dll
+F:\Учеба\C#\hw8.1\bin\Debug\net6.0\hw8.1.pdb
+F:\Учеба\C#\hw8.1\obj\Debug\net6.0\hw8.1.csproj.AssemblyReference.cache
+F:\Учеба\C#\hw8.1\obj\Debug\net6.0\hw8.1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\C#\hw8.1\obj\Debug\net6.0\hw8.1.AssemblyInfoInputs.cache
+F:\Учеба\C#\hw8.1\obj\Debug\net6.0\hw8.1.AssemblyInfo.cs
+F:\Учеба\C#\hw8.1\obj\Debug\net6.0\hw8.1.csproj.CoreCompileInputs.cache
+F:\Учеба\C#\hw8.1\obj\Debug\net6.0\hw8.1.dll
+F:\Учеба\C#\hw8.1\obj\Debug\net6.0\refint\hw8.1.dll
+F:\Учеба\C#\hw8.1\obj\Debug\net6.0\hw8.1.pdb
+F:\Учеба\C#\hw8.1\obj\Debug\net6.0\hw8.1.genruntimeconfig.cache
+F:\Учеба\C#\hw8.1\obj\Debug\net6.0\ref\hw8.1.dll
